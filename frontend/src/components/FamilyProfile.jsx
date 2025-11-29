@@ -699,7 +699,7 @@ export default function FamilyProfile() {
                 </div>
               </div>
 
-              <div style={{ marginTop: 16 }}>
+              {/* <div style={{ marginTop: 16 }}>
                 <h4 style={styles.smallTextMuted}>Quick Info</h4>
                 <div style={{ marginTop: 8, fontSize: 14, color: "#374151" }}>
                   <div>
@@ -712,7 +712,7 @@ export default function FamilyProfile() {
                     <strong>Events:</strong> 1
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </aside>
 
